@@ -6,7 +6,7 @@ Uma página de login simples e responsiva desenvolvida com **Tailwind CSS**, com
 
 ## 📸 Preview
 
-![preview](https://raw.githubusercontent.com/guitrinda/tailwind-login-page/blob/main/src/assets/preview.png)
+![preview](https://raw.githubusercontent.com/Guitrinda/tailwind-login-page/main/src/assets/preview.png)
 
 ---
 
