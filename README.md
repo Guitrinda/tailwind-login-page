@@ -63,6 +63,8 @@ npx tailwindcss -i ./style/style.css -o ./style/output.css --watch
 
 4. Abra o index.html no navegador
 
+---
+
 ##  📚 Aprendizados
 
 Durante esse projeto, pratiquei:
@@ -79,3 +81,4 @@ Criação de interfaces modernas sem CSS customizado
  Dark mode 🌙
  Animações mais avançadas
  Acessibilidade (ARIA)
+---
