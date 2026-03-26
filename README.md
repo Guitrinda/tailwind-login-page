@@ -6,7 +6,7 @@ Uma página de login simples e responsiva desenvolvida com **Tailwind CSS**, com
 
 ## 📸 Preview
 
-![preview](.src/assets/preview.png)
+![preview](https://raw.githubusercontent.com/guitrinda/tailwind-login-page/src/assets/preview.png)
 
 ---
 
@@ -51,7 +51,7 @@ Este projeto foi criado com o objetivo de:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/tailwind-login-page.git
+git clone https://github.com/guitrinda/tailwind-login-page.git
 ```
 
 2. Abra o projeto:
