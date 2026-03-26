@@ -47,38 +47,16 @@ Este projeto foi criado com o objetivo de:
 ---
 
 ## 🛠️ Como rodar o projeto
-
-1. Clone o repositório:
+Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/tailwind-login-page.git
+git clone https://github.com/guitrinda/tailwind-login-page.git
 
-2. Abra o projeto:
-```bash
+Abra o projeto:
 cd tailwind-login-page
 
-3. Execute o Tailwind:
-```bash
+Execute o Tailwind:
 npx tailwindcss -i ./style/style.css -o ./style/output.css --watch
 
-4. Abra o index.html no navegador
+Abra o index.html no navegador
 
----
-
-##  📚 Aprendizados
-
-Durante esse projeto, pratiquei:
-
-Uso de utilitários do Tailwind
-Organização de layout com Flexbox
-Estilização de inputs e botões
-Criação de interfaces modernas sem CSS customizado
-
-
-🚀 Próximos passos (melhorias)
- Integração com API de autenticação
- Validação de formulário
- Dark mode 🌙
- Animações mais avançadas
- Acessibilidade (ARIA)
----
